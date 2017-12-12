@@ -1,0 +1,7 @@
+Version: 1.2.13
+
+
+Bug Report URL:  https://issues.apache.org/bugzilla/show_bug.cgi?id=31003
+
+
+Source Code: http://archive.apache.org/dist/logging/log4j/1.2.13/logging-log4j-1.2.13.zip

@@ -1,0 +1,3 @@
+java.lang.IllegalStateException: Iterator contains no elements
+	at org.apache.commons.collections.iterators.AbstractEmptyIterator.remove(AbstractEmptyIterator.java:70)
+	at org.apache.commons.collections.iterators.IteratorChain.remove(IteratorChain.java:285)

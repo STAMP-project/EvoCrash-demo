@@ -1,0 +1,6 @@
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at org.apache.tools.ant.taskdefs.Concat$MultiReader.read(Concat.java:784)
+    at org.apache.tools.ant.taskdefs.Concat.concatenate(Concat.java:513)
+    at org.apache.tools.ant.taskdefs.Concat.cat(Concat.java:462)
+    at org.apache.tools.ant.taskdefs.Concat.execute(Concat.java:371)
+    at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:269)

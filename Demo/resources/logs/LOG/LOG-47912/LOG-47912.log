@@ -1,0 +1,6 @@
+java.lang.NullPointerException:
+	at org.apache.log4j.CategoryKey.<init>(CategoryKey.java:32)
+	at org.apache.log4j.Hierarchy.getLogger(Hierarchy.java:266)
+	at org.apache.log4j.Hierarchy.getLogger(Hierarchy.java:247)
+	at org.apache.logging.julbridge.JULLog4jEventConverter.convert(JULLog4jEventConverter.java:121)
+	at org.apache.logging.julbridge.JULBridgeHandler.publish(JULBridgeHandler.java:49)

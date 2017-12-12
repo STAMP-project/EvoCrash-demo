@@ -1,0 +1,7 @@
+Version: 1.2.16
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=47912
+
+
+Source Code: http://archive.apache.org/dist/logging/log4j/1.2.16/apache-log4j-1.2.16.zip

@@ -1,0 +1,8 @@
+java.lang.NullPointerException
+    at java.io.Writer.write(Writer.java:157)
+    at org.apache.log4jb.helpers.QuietWriter.write(QuietWriter.java:50)
+    at org.apache.log4jb.WriterAppender.subAppend(WriterAppender.java:310)
+    at org.apache.log4jb.WriterAppender.append(WriterAppender.java:161)
+    at ru.yandex.video.converter.convert.ConfiguredFileAppender.append(ConfiguredFileAppender.java:23)
+    at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:251)
+		

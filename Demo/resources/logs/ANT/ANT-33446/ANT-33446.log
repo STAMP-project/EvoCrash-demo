@@ -1,0 +1,10 @@
+java.lang.NullPointerException:
+	at org.apache.tools.ant.util.DOMElementWriter.encode(DOMElementWriter.java:174)
+	at org.apache.tools.ant.util.DOMElementWriter.write(DOMElementWriter.java:95)
+	at org.apache.tools.ant.util.DOMElementWriter.write(DOMElementWriter.java:113)
+	at org.apache.tools.ant.XmlLogger.buildFinished(XmlLogger.java:189)
+	at org.apache.tools.ant.Project.fireBuildFinished(Project.java:1796)
+	at org.apache.tools.ant.Main.runBuild(Main.java:693)
+	at org.apache.tools.ant.Main.startAnt(Main.java:188)
+	at org.apache.tools.ant.launch.Launcher.run(Launcher.java:196)
+	at org.apache.tools.ant.launch.Launcher.main(Launcher.java:55)

@@ -1,0 +1,9 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.FileAppender.subAppend(FileAppender.java:442)
+	at org.apache.log4jb.RollingFileAppender.subAppend(RollingFileAppender.java:260)
+	at org.apache.log4jb.FileAppender.append(FileAppender.java:220)
+	at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:221)
+	at org.apache.log4jb.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:56)
+	at org.apache.log4jb.Category.callAppenders(Category.java:258)
+	at org.apache.log4jb.Category.forcedLog(Category.java:454)
+	at org.apache.log4jb.Category.debug(Category.java:315)

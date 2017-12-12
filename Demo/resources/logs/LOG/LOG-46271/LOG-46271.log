@@ -1,0 +1,7 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.net.SyslogAppender.append(SyslogAppender.java:312)
+	at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:251)
+	at org.apache.log4jb.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:66)
+	at org.apache.log4jb.Category.callAppenders(Category.java:206)
+	at org.apache.log4jb.Category.forcedLog(Category.java:391)
+	at org.apache.log4jb.Category.log(Category.java:856)

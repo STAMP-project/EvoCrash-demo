@@ -1,0 +1,7 @@
+Version: 1.6.5
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=38458
+
+
+Source Code: http://archive.apache.org/dist/ant/source/apache-ant-1.6.5-src.zip

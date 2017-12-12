@@ -1,0 +1,7 @@
+Version: 1.6.3
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=34722
+
+
+Source Code: http://archive.apache.org/dist/ant/source/apache-ant-1.6.3-src.zip 

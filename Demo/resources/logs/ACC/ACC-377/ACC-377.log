@@ -1,0 +1,3 @@
+java.lang.NullPointerException: 
+    at org.apache.commons.collections.iterators.CollatingIterator.least(CollatingIterator.java:333)
+    at org.apache.commons.collections.iterators.CollatingIterator.next(CollatingIterator.java:229)

@@ -1,0 +1,7 @@
+Version: 3.2
+
+
+Bug Report URL: https://issues.apache.org/jira/browse/COLLECTIONS-331
+
+
+Source Code: http://archive.apache.org/dist/commons/collections/source/commons-collections-3.2-src.zip

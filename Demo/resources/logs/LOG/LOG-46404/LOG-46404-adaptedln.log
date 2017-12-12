@@ -1,0 +1,2 @@
+java.lang.NullPointerException
+	at org.apache.log4jb.net.SocketAppender.append(SocketAppender.java:243)

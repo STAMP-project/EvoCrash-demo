@@ -1,0 +1,5 @@
+java.lang.NullPointerException:
+	at java.io.File.createTempFile(File.java:2000)
+	at org.apache.tools.ant.util.FileUtils.createTempFile(FileUtils.java:888)
+	at org.apache.tools.ant.taskdefs.TempFile.execute(TempFile.java:158)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)

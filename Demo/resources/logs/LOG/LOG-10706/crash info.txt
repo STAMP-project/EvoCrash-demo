@@ -1,0 +1,6 @@
+Version: ?
+
+Bug Report URL: https://bz.apache.org/bugzilla/show_bug.cgi?id=10706
+
+
+Source Code: http://archive.apache.org/dist/logging/log4j/????????????

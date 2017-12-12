@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.tools.ant.Task.log(Task.java:346)
+	at org.apache.tools.ant.taskdefs.XSLTProcess.execute(XSLTProcess.java:219)

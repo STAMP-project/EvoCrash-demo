@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.Category.forcedLog(Category.java:453)
+	at org.apache.log4jb.Category.error(Category.java:368)

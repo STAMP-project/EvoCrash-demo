@@ -1,0 +1,12 @@
+java.lang.NullPointerException
+	at java.io.Writer.write(Writer.java:126)
+	at org.apache.log4jb.helpers.CountingQuietWriter.write(CountingQuietWriter.java:45)
+	at org.apache.log4jb.WriterAppender.subAppend(WriterAppender.java:309)
+	at org.apache.log4jb.RollingFileAppender.subAppend(RollingFileAppender.java:263)
+	at org.apache.log4jb.WriterAppender.append(WriterAppender.java:160)
+	at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:251)
+	at org.apache.log4jb.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:66)
+	at org.apache.log4jb.Category.callAppenders(Category.java:206)
+	at org.apache.log4jb.Category.forcedLog(Category.java:391)
+	at org.apache.log4jb.Category.warn(Category.java:1060)
+	

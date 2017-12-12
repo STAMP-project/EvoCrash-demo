@@ -1,0 +1,7 @@
+Version: 1.0.4
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=509
+
+
+Source Code: archive.apache.org/dist/logging/log4j/1.0.4/jakarta-log4j-1.0.4.tar.gz

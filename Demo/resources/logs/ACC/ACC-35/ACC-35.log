@@ -1,0 +1,4 @@
+java.lang.UnsupportedOperationException: IteratorChains must contain at least one Iterator
+    at org.apache.commons.collections.iterators.IteratorChain.checkChainIntegrity(IteratorChain.java:250)
+    at org.apache.commons.collections.iterators.IteratorChain.lockChain(IteratorChain.java:258)
+    at org.apache.commons.collections.iterators.IteratorChain.hasNext(IteratorChain.java:298)

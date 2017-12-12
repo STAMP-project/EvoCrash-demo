@@ -1,0 +1,11 @@
+java.lang.NullPointerException:
+    at org.apache.log4jb.helpers.Transform.appendEscapingCDATA(Transform.java:74)
+    at org.apache.log4jb.xml.XMLLayout.format(XMLLayout.java:115)
+    at org.apache.log4jb.WriterAppender.subAppend(WriterAppender.java:292)
+    at org.apache.log4jb.RollingFileAppender.subAppend(RollingFileAppender.java:225)
+    at org.apache.log4jb.WriterAppender.append(WriterAppender.java:150)
+    at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:221)
+    at org.apache.log4jb.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:57)
+    at org.apache.log4jb.Category.callAppenders(Category.java:187)
+    at org.apache.log4jb.Category.forcedLog(Category.java:372)
+    at org.apache.log4jb.Category.error(Category.java:286)

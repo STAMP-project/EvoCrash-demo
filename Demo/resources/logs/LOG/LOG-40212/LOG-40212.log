@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.LogManager.getLogger(LogManager.java:188)
+	at org.apache.log4jb.Logger.getLogger(Logger.java:104)

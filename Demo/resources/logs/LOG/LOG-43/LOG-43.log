@@ -1,0 +1,7 @@
+java.lang.ExceptionInInitializerError: 
+    at java.security.AccessControlContext.checkPermission(AccessControlContext.java:272)
+    at java.security.AccessController.checkPermission(AccessController.java:399)
+    at java.lang.SecurityManager.checkPermission(SecurityManager.java:545)
+    at java.lang.SecurityManager.checkPropertyAccess(SecurityManager.java:1278)
+    at java.lang.System.getProperty(System.java:599)
+    at org.apache.log4jb.Category.<clinit>(Category.java:137)

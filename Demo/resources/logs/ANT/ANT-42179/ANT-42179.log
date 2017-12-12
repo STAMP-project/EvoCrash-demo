@@ -1,0 +1,2 @@
+java.lang.NullPointerException
+    at org.apache.tools.ant.taskdefs.Delete.execute(Delete.java:565)

@@ -1,0 +1,7 @@
+Version: 1.8.0
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=49137
+
+
+Source Code: http://archive.apache.org/dist/ant/source/apache-ant-1.8.0-src.zip

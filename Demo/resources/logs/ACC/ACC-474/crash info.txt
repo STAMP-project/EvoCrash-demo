@@ -1,0 +1,11 @@
+Version: 4.0 - r1479407
+
+
+Bug Report URL: https://issues.apache.org/jira/browse/COLLECTIONS-474
+
+
+Source Code: http://archive.apache.org/dist/commons/collections/source/
+
+Buggy Frame level: 2
+
+Provided patch: http://svn.apache.org/viewvc?view=revision&revision=1496182

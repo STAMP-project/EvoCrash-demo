@@ -1,0 +1,7 @@
+Version: 1.7.1
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=47306
+
+
+Source Code: http://archive.apache.org/dist/ant/source/apache-ant-1.7.1-src.zip

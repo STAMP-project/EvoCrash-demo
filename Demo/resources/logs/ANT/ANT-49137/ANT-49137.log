@@ -1,0 +1,5 @@
+java.lang.NullPointerException:
+	at org.apache.tools.ant.util.SymbolicLinkUtils.isSymbolicLink(SymbolicLinkUtils.java:107)
+	at org.apache.tools.ant.util.SymbolicLinkUtils.isSymbolicLink(SymbolicLinkUtils.java:73)
+	at org.apache.tools.ant.util.SymbolicLinkUtils.deleteSymbolicLink(SymbolicLinkUtils.java:223)
+	at org.apache.tools.ant.taskdefs.optional.unix.Symlink.delete(Symlink.java:187)

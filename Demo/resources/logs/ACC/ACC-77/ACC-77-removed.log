@@ -1,0 +1,2 @@
+java.lang.IllegalStateException: remove() cannot be called 
+    at org.apache.commons.collections.iterators.IteratorChain.remove(IteratorChain.java:285)

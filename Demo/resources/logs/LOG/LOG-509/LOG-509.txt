@@ -1,0 +1,10 @@
+java.lang.NullPointerException
+	at org.apache.log4j.FileAppender.subAppend(FileAppender.java:441)
+	at org.apache.log4j.FileAppender.append(FileAppender.java:219)
+	at org.apache.log4j.AppenderSkeleton.doAppend(AppenderSkeleton.java:221)
+	at org.apache.log4j.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:56)
+	at org.apache.log4j.Category.callAppenders(Category.java:258)
+	at org.apache.log4j.Category.forcedLog(Category.java:454)
+	at org.apache.log4j.Category.debug(Category.java:315)
+	at com.dyncorp.dynride.scheduler.MasterScheduler.run(MasterScheduler.java:203)
+	at java.lang.Thread.run(Thread.java:484)

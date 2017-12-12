@@ -1,0 +1,15 @@
+java.lang.NullPointerException:
+	at java.lang.String.lastIndexOf(String.java:1827)
+	at java.lang.String.lastIndexOf(String.java:1807)
+	at org.apache.log4jb.spi.LocationInfo.<init>(LocationInfo.java:121)
+	at org.apache.log4jb.spi.LoggingEvent.getLocationInformation(LoggingEvent.java:191)
+	at org.apache.log4jb.helpers.PatternParser$ClassNamePatternConverter.getFullyQualifiedName(PatternParser.java:539)
+	at org.apache.log4jb.helpers.PatternParser$NamedPatternConverter.convert(PatternParser.java:512)
+	at org.apache.log4jb.helpers.PatternConverter.format(PatternConverter.java:64)
+	at org.apache.log4jb.PatternLayout.format(PatternLayout.java:503)
+	at org.apache.log4jb.WriterAppender.subAppend(WriterAppender.java:302)
+	at org.apache.log4jb.WriterAppender.append(WriterAppender.java:160)
+	at org.apache.log4jb.AppenderSkeleton.doAppend(AppenderSkeleton.java:230)
+	at org.apache.log4jb.helpers.AppenderAttachableImpl.appendLoopOnAppenders(AppenderAttachableImpl.java:66)
+	at org.apache.log4jb.AsyncAppender$Dispatcher.run(AsyncAppender.java:578)
+	

@@ -1,0 +1,7 @@
+Version: 1.2
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=44899
+
+
+Source Code: http://archive.apache.org/dist/logging/log4j/

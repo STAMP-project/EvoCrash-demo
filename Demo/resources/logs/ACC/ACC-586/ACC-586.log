@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet$EntryIterator.remove(AbstractPatriciaTrie.java:2370)
+	

@@ -1,0 +1,7 @@
+Version: 1.2.7
+
+
+Bug Report URL: https://issues.apache.org/bugzilla/show_bug.cgi?id=11570
+
+
+Source Code: http://archive.apache.org/dist/logging/log4j/1.2.7/jakarta-log4j-1.2.7.zip

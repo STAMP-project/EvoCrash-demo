@@ -1,0 +1,7 @@
+Version: 4.0-r1351903
+
+
+Bug Report URL: https://issues.apache.org/jira/browse/COLLECTIONS-411
+
+
+Source Code: Source repository: revision 1351903

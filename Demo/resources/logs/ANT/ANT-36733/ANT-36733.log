@@ -1,0 +1,7 @@
+java.lang.NullPointerException:
+	at org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter.formatOutput(XMLJUnitResultFormatter.java:253)
+	at org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter.setSystemOutput(XMLJUnitResultFormatter.java:92)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.sendOutAndErr(JUnitTestRunner.java:435)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.run(JUnitTestRunner.java:319)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:672)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:567)

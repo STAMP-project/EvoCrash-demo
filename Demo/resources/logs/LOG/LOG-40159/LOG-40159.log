@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.NDC.get(NDC.java:209)
+	at org.apache.log4jb.spi.LoggingEvent.getNDC(LoggingEvent.java:238)

@@ -1,0 +1,10 @@
+java.lang.NullPointerException
+	at org.apache.log4jb.xml.DOMConfigurator.findAppenderByName(DOMConfigurator.java:155)
+	at org.apache.log4jb.xml.DOMConfigurator.findAppenderByReference(DOMConfigurator.java:184)
+	at org.apache.log4jb.xml.DOMConfigurator.parseChildrenOfLoggerElement(DOMConfigurator.java:502)
+	at org.apache.log4jb.xml.DOMConfigurator.parseRoot(DOMConfigurator.java:471)
+	at org.apache.log4jb.xml.DOMConfigurator.parse(DOMConfigurator.java:921)
+	at org.apache.log4jb.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:790)
+	at org.apache.log4jb.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:682)
+	at org.apache.log4jb.xml.DOMConfigurator.configure(DOMConfigurator.java:811)
+	

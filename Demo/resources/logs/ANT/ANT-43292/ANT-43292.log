@@ -1,0 +1,3 @@
+java.lang.NullPointerException:
+	at org.apache.tools.ant.types.mappers.FilterMapper.mapFileName(FilterMapper.java:74)
+	at org.apache.tools.ant.util.CompositeMapper.mapFileName(CompositeMapper.java:38)

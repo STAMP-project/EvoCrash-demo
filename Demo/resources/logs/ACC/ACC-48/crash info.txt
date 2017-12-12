@@ -1,0 +1,7 @@
+Version: 3.1
+
+
+Bug Report URL: https://issues.apache.org/jira/browse/COLLECTIONS-48
+
+
+Source Code: http://archive.apache.org/dist/commons/collections/source/commons-collections-3.1-src.zip

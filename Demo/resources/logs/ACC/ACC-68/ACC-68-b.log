@@ -1,0 +1,6 @@
+java.util.ConcurrentModificationException
+    at java.util.AbstractList$2.checkMod(AbstractList.java:455)
+    at java.util.AbstractList$2.previousIndex(AbstractList.java:548)
+    at java.util.AbstractList$SubList$1.previousIndex(AbstractList.java:1114)
+    at org.apache.commons.collections.FastArrayList$SubList$SubListIter.previousIndex(FastArrayList.java:1206)
+    at org.apache.commons.collections.FastArrayList$SubList$SubListIter.remove(FastArrayList.java:1222)

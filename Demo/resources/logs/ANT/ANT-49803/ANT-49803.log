@@ -1,0 +1,5 @@
+java.lang.NullPointerException:
+	at java.util.Hashtable.put(Hashtable.java:396)
+	at org.apache.tools.ant.PropertyHelper.setUserProperty(PropertyHelper.java:752)
+	at org.apache.tools.ant.Project.setUserProperty(Project.java:566)
+	at org.apache.tools.ant.Project.setDefault(Project.java:732)

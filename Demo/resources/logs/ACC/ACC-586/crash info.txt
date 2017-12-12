@@ -1,0 +1,11 @@
+Version: 4.1
+
+
+Bug Report URL: https://issues.apache.org/jira/browse/COLLECTIONS-586
+
+
+Source Code: http://archive.apache.org/dist/commons/collections/source/
+
+Buggy Frame level: 1
+
+Provided patch: https://patch-diff.githubusercontent.com/raw/apache/commons-collections/pull/18.patch

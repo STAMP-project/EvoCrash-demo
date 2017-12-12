@@ -1,0 +1,2 @@
+java.lang.NullPointerException:
+	at org.apache.log4jb.RollingFileAppender.rollOver(RollingFileAppender.java:123)

@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+    at org.apache.tools.ant.DirectoryScanner.isMorePowerfulThanExcludes(DirectoryScanner.java:1208)
+    at org.apache.tools.ant.DirectoryScanner.couldHoldIncluded(DirectoryScanner.java:1168)
+    at org.apache.tools.ant.DirectoryScanner.slowScan(DirectoryScanner.java:972)
