@@ -17,7 +17,7 @@ import java.util.List;
 @NotThreadSafe
 public class XWIKI_13916_Test extends SystemBase {
 
-    private int frameLevel =4;
+    private int frameLevel = 3;
     private String ExceptionType = "java.lang.ClassCastException";
     private String issueNumber = "XWIKI-13916";
     private String softwareVersion = "8.4";
@@ -26,7 +26,7 @@ public class XWIKI_13916_Test extends SystemBase {
     private Path testPath;
 
     public XWIKI_13916_Test() {
-        String user_dir = System.getProperty("user.dir");
+        String user_dir = "../";
         Path binpath = Paths.get(user_dir, "resources", "targetedSoftware", "XWIKI-bins");
         String bin_path = binpath.toString();
         System.out.println(bin_path);
