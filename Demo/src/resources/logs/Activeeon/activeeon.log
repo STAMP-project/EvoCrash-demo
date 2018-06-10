@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.JsonParseException
+        at org.ow2.proactive.scheduler.task.executors.InProcessTaskExecutor.execute(InProcessTaskExecutor.java:225)
+        at org.ow2.proactive.scheduler.task.executors.InProcessTaskExecutor.execute(InProcessTaskExecutor.java:158)
+        at org.ow2.proactive.scheduler.task.executors.forked.env.ExecuteForkedTaskInsideNewJvm.fromForkedJVM(ExecuteForkedTaskInsideNewJvm.java:115)
+        at org.ow2.proactive.scheduler.task.executors.forked.env.ExecuteForkedTaskInsideNewJvm.main(ExecuteForkedTaskInsideNewJvm.java:105)
