@@ -19,8 +19,8 @@ Getting Started with Demo
 ---------------
 
 ```
-git clone https://github.com/STAMP-project/EvoCrash.git
-cd EvoCrash/Demo
+git clone https://github.com/STAMP-project/EvoCrash-demo.git
+cd EvoCrash-demo/Demo
 ```
 
 # XWIKI_13916 example
