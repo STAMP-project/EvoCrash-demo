@@ -121,17 +121,24 @@ public class TestCreation extends SystemBase {
         String dep = "";
         File lib_dir = new File(libPath);
         File[] listOfFilesInSourceFolder = lib_dir.listFiles();
+        String separator = ":";
+        if (isWindows()){separator = ";";}
         for(int i = 0; i < listOfFilesInSourceFolder.length; i++){
             String lib_file_name = listOfFilesInSourceFolder[i].getName();
             // Do not consider non jar files
             if( listOfFilesInSourceFolder[i].getName().charAt(0) !='.' && FilenameUtils.getExtension(lib_file_name).equals("jar")) {
                 Path depPath = Paths.get(lib_dir.getAbsolutePath(), lib_file_name);
                 String dependency = depPath.toString();
-                dep += (dependency+":");
+                dep += (dependency+separator);
             }
 
         }
         return dep.substring(0, dep.length() - 1);
+    }
+
+    private boolean isWindows() {
+        String OS = System.getProperty("os.name").toLowerCase();
+        return (OS.indexOf("win") >= 0);
     }
 
     private void loadProperties(){
