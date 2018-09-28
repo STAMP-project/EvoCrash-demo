@@ -138,3 +138,9 @@ Tests run: 1,  Failures: 1
 3. Set "frame.level" properties in `src/resources/config.properties` to the frame that you want to have as the target frame.
 4. Run the software.
 5. Find the generated test at `GGA-tests` directory.
+
+# Funding
+
+EvoCrash-demo is partially funded by research project STAMP (European Commission - H2020)
+![STAMP - European Commission - H2020](https://github.com/STAMP-project/docs-forum/blob/master/docs/images/logo_readme_md.png)
+
